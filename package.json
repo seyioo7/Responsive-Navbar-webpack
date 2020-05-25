@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/seyioo7/Responsive-Navbar-webpack/issues"
   },
-  "homepage": "https://github.com/seyioo7/Responsive-Navbar-webpack#readme"
+  "homepage": "https://github.com/seyioo7/Responsive-Navbar-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
 }
